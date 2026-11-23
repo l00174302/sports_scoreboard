@@ -1,0 +1,4 @@
+Create a RESTAPI Express folder eplrestapi for routes/endpoints
+Create a React folder epl20162017 for React Front-End
+Do not change the structure of the database
+You will upload compressed copies of these folders. 
